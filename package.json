@@ -1,0 +1,13 @@
+{
+  "name": "tadpoles-logger-aws",
+  "version": "1.0.0",
+  "description": "Login your child at a bright horizons school using the tadpoles API by listening to SQS event on AWS Lambda",
+  "main": "index.js",
+  "author": "R. Stephen Guerra",
+  "license": "Apache",
+  "dependencies": {
+    "command-line-args": "^3.0.1",
+    "sqs-consumer": "^3.4.0",
+    "tadpoles-logger": "^1.0.1"
+  }
+}
