@@ -8,6 +8,6 @@
   "dependencies": {
     "command-line-args": "^3.0.1",
     "sqs-consumer": "^3.4.0",
-    "tadpoles-logger": "^1.0.1"
+    "tadpoles-logger": "^1.0.3"
   }
 }
